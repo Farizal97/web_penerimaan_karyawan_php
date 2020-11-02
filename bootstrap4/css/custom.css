@@ -1,0 +1,62 @@
+/*career-card*/
+.card-img-top{
+	width: 100%;
+	height: 300px;
+}
+
+.card{
+	border:1px solid grey;
+}
+/*career-card*/
+
+
+/*footer*/
+
+/*footer*/
+
+
+img .card-img{
+	width: 100%;
+	height: 200px;
+}
+
+
+.jumbotron{
+	border-radius: 10px;
+}
+
+.jumbotron h1,p{
+	padding-left: 20px;
+}
+
+
+.sidebar-admin{
+	width: 100%;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+	padding: 5px;
+	margin-left: 5%;
+
+}
+
+
+.content-admin{
+	width: 100%;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+	padding: 5px;
+	padding-top: 10px;
+
+}
+
+.carousel .carousel-item img{
+	height: 500px;
+	width: 700px;
+}
+
+
+.carousel{
+	margin-bottom: 20px;
+}
